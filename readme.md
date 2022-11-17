@@ -27,20 +27,16 @@ A Twitter list is a curated group of accounts that allows you to efficiently man
 ## Contents
 
 - [Cryptocurrency](#cryptocurrency)
-- [Design](#design)
-- [Entrepreneurship](#entrepreneurship)
-- [Product](#product)
-- [Technology](#technology)
 
 <!-- CONTENT -->
 
 ## Cryptocurrency
 
-- [Bitcoin](https://twitter.com/i/lists/967467772341923840) | Jameson Lopp
-- [Bitcoin Developers](https://twitter.com/i/lists/967118678205505536) | Jameson Lopp
-- [Bitcoin Top 100](https://twitter.com/i/lists/1269756458620653568) | Blockworks
-- [Crypto](https://twitter.com/i/lists/875371355570487296) | Naval
-- [Crypto Core](https://twitter.com/i/lists/1073407660337188865) | Naval
+- [Bitcoin](https://twitter.com/i/lists/967467772341923840) - Jameson Lopp
+- [Bitcoin Developers](https://twitter.com/i/lists/967118678205505536) - Jameson Lopp
+- [Bitcoin Top 100](https://twitter.com/i/lists/1269756458620653568) - Blockworks
+- [Crypto](https://twitter.com/i/lists/875371355570487296) - Naval
+- [Crypto Core](https://twitter.com/i/lists/1073407660337188865) - Naval
 
 <!-- END CONTENT -->
 
