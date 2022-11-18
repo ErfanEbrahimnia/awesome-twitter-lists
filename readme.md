@@ -8,17 +8,15 @@
 
 <!-- subtitle -->
 
-A curated list of awesome Twitter lists you should follow
+A hand-curated collection of awesome Twitter lists you should follow
 
 <!-- image -->
 
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
+<img alt="" src="images/header.png" />
 
 <!-- description -->
 
-A Twitter list is a curated group of accounts that allows you to efficiently manage and consume your content.
+A [Twitter list](https://help.twitter.com/en/using-twitter/twitter-lists) is a curated group of accounts that allows you to efficiently manage and consume your content.
 
 </div>
 
